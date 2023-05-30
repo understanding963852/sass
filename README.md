@@ -20,6 +20,13 @@
 ![image](https://github.com/understanding963852/sass/assets/60366769/6aa860b7-7b4e-43f4-a96b-8f2c422fb617)
 
 # 주석처리 방법
+#  //주석처리방법은 css로 컴파일되지 않는다
+#  /*  */주석처리방법은 css로 컴파일되어 나타남
+![image](https://github.com/understanding963852/sass/assets/60366769/08be5031-4a6c-42bb-b0ee-711d42737545)
+
+# 변수만들기 --> $로 시작함,(영문, 숫자, - , _)만 사용할수 있음. 숫자로 시작할수 없음.
+![image](https://github.com/understanding963852/sass/assets/60366769/fc7da532-5e88-44d0-adb8-b79d0bb66b8a)
+
 
 
 
