@@ -61,7 +61,8 @@
 # nesting(네스팅)--품다
 
 # 함수
-![image](https://github.com/understanding963852/sass/assets/60366769/5225c90a-7d2c-4ac0-94eb-401e01c6ca13)
+![image](https://github.com/understanding963852/sass/assets/60366769/c5b0a5c2-6d48-4c51-a494-dc820144ab54)
+
 
 
 
