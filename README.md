@@ -63,6 +63,9 @@
 # 함수
 ![image](https://github.com/understanding963852/sass/assets/60366769/c5b0a5c2-6d48-4c51-a494-dc820144ab54)
 
+# extend
+
+![image](https://github.com/understanding963852/sass/assets/60366769/c18c2a64-f558-4bcd-954b-f7721e8ec842)
 
 
 
