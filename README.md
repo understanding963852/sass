@@ -51,6 +51,17 @@
  # @forward 는 파샬을 묶어줌  style.scss에서는 _index.scss를 호출하여 사용함
 ![image](https://github.com/understanding963852/sass/assets/60366769/a21e4ddb-e47a-4ac7-96ca-b73c72c0db57)
 
+# 전역변수와 지역변수
+![image](https://github.com/understanding963852/sass/assets/60366769/4953070a-f03e-4273-81f5-992085745dd9)
+
+# 보간법
+
+![image](https://github.com/understanding963852/sass/assets/60366769/3cb74474-d163-4a67-882a-24c846fbca91)
+
+# nesting(네스팅)--품다
+
+# 함수
+![image](https://github.com/understanding963852/sass/assets/60366769/5225c90a-7d2c-4ac0-94eb-401e01c6ca13)
 
 
 
